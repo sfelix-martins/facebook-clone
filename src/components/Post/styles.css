@@ -1,0 +1,27 @@
+.post-container {
+    top: 84px;
+    padding: 0 10px;
+    margin: 10px 0;
+    box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.1);
+    background: #fff;
+}
+
+.avatar img {
+    width: 54px;
+    height: 54px;
+    border-radius: 50%;
+    margin: 5px;
+    float: left;
+}
+
+.avatar h2 {
+    font-size: 20px;
+}
+
+.post-comments {
+    padding-bottom: 10px;
+}
+
+.post-content {
+    padding: 10px 0;
+}

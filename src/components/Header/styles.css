@@ -1,0 +1,13 @@
+.header {
+    position: absolute;
+    width: 100%;
+    height: 64px;
+    left: 0px;
+    top: 0px;
+
+    background: #4A90E2;
+}
+
+.brand {
+    color: #FFF;
+}
